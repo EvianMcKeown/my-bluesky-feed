@@ -1,4 +1,4 @@
-# TEST TEXT HELLO
+# TEST TEXT
 
 # ATProto Feed Generator
 
